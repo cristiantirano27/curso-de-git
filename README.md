@@ -1,8 +1,8 @@
 Encabezado
 # curso-de-git
-Texto
-Mi primer proyecto
-Esta es una prueba de como trabajar con git
+**Texto**
+*Mi primer proyecto*
+***Esta es una prueba de como trabajar con git***
 
 # Sintaxis de Markdown
 ## Como usar la sintaxis Markdown
