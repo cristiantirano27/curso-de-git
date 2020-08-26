@@ -37,4 +37,6 @@ Forma 3
 
 Imagen    
 
-![Imagen de google](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+<div align = "center">
+    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" >
+<\div>
