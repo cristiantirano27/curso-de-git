@@ -1,9 +1,10 @@
 # GIT Y GITHUB
 ## Comandos basicos para manejar Git y GitHub
 
-cd: Comando para entrar a carpetas del PC. 
-ls: Comando para ver los archivos  carpetas que estan en las carpetas del PC.
-pwd: Para ver en que ruta del sistema esta posicionando el terminal.
+- cd: Comando para entrar a carpetas del PC. 
+- ls: Comando para ver los archivos  carpetas que estan en las carpetas del PC.
+- pwd: Para ver en que ruta del sistema esta posicionando el terminal.
+- cd ..: Comando para salir de las carpetas.
 
 Algunos de los comandos de Git básicos son:
 ```
