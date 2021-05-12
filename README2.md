@@ -14,7 +14,7 @@ git add: Para agregar un archivo al staging area.
 git config --global user.name: Para configurar el nombre del usuario.
 git commit/commt -m: Para crear un commit dentro del proyecto.
 git log: Para ver todos los commits que se han creado.
-git checkout: Para revertir los cambios de los archivos.
+git commit --amend -m "your new message": Para modificar ultimo commit creado
 git diff: Para ver las diferencias hechas en los archivos.
 git branch: Muestra las ramas.
 git branch name: Crear una rama.
