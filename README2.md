@@ -2,7 +2,7 @@
 ## Comandos basicos para manejar Git y GitHub
 
 - cd: Comando para entrar a carpetas del PC. 
-- ls: Comando para ver los archivos  carpetas que estan en las carpetas del PC.
+- ls-dir: Comando para ver los archivos  carpetas que estan en las carpetas del PC.
 - pwd: Para ver en que ruta del sistema esta posicionando el terminal.
 - cd ..: Comando para salir de las carpetas.
 
@@ -22,3 +22,8 @@ git checkout: Cambio de ramas.
 git remote add origin url: Origen o a donde se va a almacenar el codigo.
 git push/ -u origin rama: Abre un Login, para ingresar a GitHub y subir el codigo al repositorio remoto.
 ```
+
+## PAALABRAS CLAVES PARA USAR EN LOS PROYECTOS CUANDO SE REQUIERE UN $git-commit
+
+- chore: Subir o cambiar contenido tipo código.
+- docs: Subir o cambiar contenido tipo archivo.
