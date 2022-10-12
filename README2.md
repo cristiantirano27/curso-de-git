@@ -23,7 +23,7 @@ git remote add origin url: Origen o a donde se va a almacenar el codigo.
 git push/ -u origin rama: Abre un Login, para ingresar a GitHub y subir el codigo al repositorio remoto.
 ```
 
-## PAALABRAS CLAVES PARA USAR EN LOS PROYECTOS CUANDO SE REQUIERE UN $git-commit
+## PALABRAS CLAVES PARA USAR EN LOS PROYECTOS CUANDO SE REQUIERE UN $git-commit
 
 - chore: Subir o cambiar contenido tipo código.
 - docs: Subir o cambiar contenido tipo archivo.
