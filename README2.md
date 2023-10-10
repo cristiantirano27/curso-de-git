@@ -27,3 +27,9 @@ git push/ -u origin rama: Abre un Login, para ingresar a GitHub y subir el codig
 
 - chore: Subir o cambiar contenido tipo código.
 - docs: Subir o cambiar contenido tipo archivo.
+
+## EJEMPLOS DE FORMAS DE ESCRIBIR UN COOMMIT
+```
+01/01/1999 CHORE: Primer commit
+01/01/1999 DOCS: Primer commit
+```
